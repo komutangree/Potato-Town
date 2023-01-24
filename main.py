@@ -2,16 +2,9 @@
 
 #TO DO
 
-#FIX the async between UI and values.
-
-
-
-
-
-
-
-
-
+# FIX the async between UI and values.
+# Add SFX.
+# Add +1 text that will show up whenever the potato count gets increased. 
 
 
 
